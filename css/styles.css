@@ -11119,6 +11119,12 @@ footer a:hover, footer a:active, footer a:focus {
 .masthead .masthead-device-mockup .device-wrapper {
   max-width: 10rem;
 }
+
+.img-industry {
+  -webkit-filter: brightness(70%) blur(2px);
+  filter: brightness(70%) blur(2px);
+}
+
 @media (min-width: 576px) {
   .masthead .masthead-device-mockup .circle {
     width: 70%;
